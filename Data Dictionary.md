@@ -3,6 +3,7 @@ K-means clustering to label specific pitch based off movement profiles to give a
 
 Data Dictionary
 (Only FB’s, Sliders, Changeup’s, and Curveballs included)
+
 Velocity: Broken into percentiles based off combined velo’s for individual pitches
 -	Very Hard: 80-100 percentile
 -	Hard: 60-80 percentile
