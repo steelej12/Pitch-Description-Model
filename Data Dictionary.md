@@ -1,5 +1,5 @@
 # Pitch-Description-Model
-K-means clustering to label specific pitch based off movement profiles to give a full description of a pitchers arsenal inlcuidn movement, release, and velocity
+K-means clustering to label specific pitch based off movement profiles to give a full description of a pitchers arsenal including movement, release, and velocity
 
 Data Dictionary
 (Only FB’s, Sliders, Changeup’s, and Curveballs included)
